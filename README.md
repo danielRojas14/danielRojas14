@@ -1,16 +1,14 @@
 ﻿<h1 align="center">Hi 👋, I'm Rojas Daniel👨🏻‍💻​</h1>
 <h3 align="center">I'm 20 years old, I'm from Formosa, Argentina🔴​. I am a frontend, backend software developer and Junior Community Manager. I am passionate about the technological world and I love learning new things. I get along very well leading groups in any area, I find a way for a team to become productive.📈</h3>
-
-<h3 align="left"> - 🔭 I’m currently working on </h3>
-<p align="left">
-<a href="www.pyfsasoftware.com.ar" target="blank">PyFsa Software</a><br><br>
-
-<h3 align="left"> - 🌱I am currently learning about <b>Community Manager</b></h3><br><br>
-
-<h3 align="left"> - 📫 How to reach me <a href="danielrojas131415@gmail.com">danielrojas131415@gmail.com</a></h3><br><br>
-
-<h3 align="left"> - ⚡ Fun fact **Me encanta todo lo relacionado con la musica, soy instrumentista, ejecuto la guitarra y el bajo**</h3><br><br>
-
+<br>
+- 🔭 I’m currently working on [PyFsa Software](www.pyfsasoftware.com.ar)
+<br>
+- 🌱I am currently learning about **Community Manager**
+<br>
+- 📫 How to reach me **danielrojas131415@gmail.com**
+<br>
+- ⚡ Fun fact **Me encanta todo lo relacionado con la musica, soy instrumentista, ejecuto la guitarra y el bajo**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danielr94723953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielr94723953" height="30" width="40" /></a>
@@ -18,7 +16,6 @@
 <a href="https://linkedin.com/in/daniel-rojas-59149b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-rojas-59149b20b" height="30" width="40" /></a>
 
 <a href="https://fb.com/dani.rojas.5249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dani.rojas.5249" height="30" width="40" /></a>
-
 <a href="https://instagram.com/danielrojas14ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielrojas14ok" height="30" width="40" /></a>
 
 </p>

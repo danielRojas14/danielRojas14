@@ -1,5 +1,5 @@
 # Hola 👋, soy Rojas Daniel👨🏻‍💻​
-### Tengo 20 años, soy de Formosa, Argentina🔴​. Soy desarrollador de software frontend, backend y Junior Community Manager. Soy un apasionado del mundo tecnológico y me encanta aprender cosas nuevas. Me llevo muy bien liderando grupos en cualquier área, encuentro la manera de que un equipo sea productivo.📈
+#### Tengo 20 años, soy de Formosa, Argentina🔴​. Soy desarrollador de software frontend, backend y Junior Community Manager. Soy un apasionado del mundo tecnológico y me encanta aprender cosas nuevas. Me llevo muy bien liderando grupos en cualquier área, encuentro la manera de que un equipo sea productivo.📈
 
 - 🔭 Actualmente estoy trabajando en [PyFsa Software](www.pyfsasoftware.com.ar)
 

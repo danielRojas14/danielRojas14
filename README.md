@@ -1,14 +1,14 @@
-﻿<h1 align="center">Hi 👋, I'm Rojas Daniel👨🏻‍💻​</h1>
-<h3 align="center">I'm 20 years old, I'm from Formosa, Argentina🔴​. I am a frontend, backend software developer and Junior Community Manager. I am passionate about the technological world and I love learning new things. I get along very well leading groups in any area, I find a way for a team to become productive.📈</h3>
-<br>
+﻿<h1 >Hi 👋, I'm Rojas Daniel👨🏻‍💻​</h1>
+<h3 >I'm 20 years old, I'm from Formosa, Argentina🔴​. I am a frontend, backend software developer and Junior Community Manager. I am passionate about the technological world and I love learning new things. I get along very well leading groups in any area, I find a way for a team to become productive.📈</h3>
+
 - 🔭 I’m currently working on [PyFsa Software](www.pyfsasoftware.com.ar)
-<br>
+
 - 🌱I am currently learning about **Community Manager**
-<br>
+
 - 📫 How to reach me **danielrojas131415@gmail.com**
-<br>
+
 - ⚡ Fun fact **Me encanta todo lo relacionado con la musica, soy instrumentista, ejecuto la guitarra y el bajo**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danielr94723953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielr94723953" height="30" width="40" /></a>
